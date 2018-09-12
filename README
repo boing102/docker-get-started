@@ -1,0 +1,1 @@
+This repository is the end result of following the get started tutorial (https://docs.docker.com/get-started/) for docker. I wanted to get a better idea of how docker works and how is it useful. The guide does exactly this, desribing 4 docker elements; containers, services, swarms and stacks.
